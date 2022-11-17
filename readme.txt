@@ -92,3 +92,13 @@ Tento nástroj bol úspešne testovaný na štandardnej OpenCart inštalácii ve
 2.0.0.0 až 2.3.0.2
 Nepoužívajte iné verzie opencartu s týmto rozšírením.
 
+Rozšírenie si môžete otestovať v demo účte v ktorom sú povolené akékoľvek úpravy. 
+V demo verzii je pridaných niekoľko nástrojov na vyčistenie defaultných produktov, aby ste mohli nerušene testovať len so svojimi. Povolené máte editáciu kategórií, produktov, objednávok a samozrejme Nástroje/Ikros. 
+Po vložení autorizačného kľúča získate okamžité prepojenie so svojim Ikros účtom či už reálnym, alebo testovacím.
+
+<a href="https://ikros.openquiz.eu/admin" target="_blank">Administrácia</a> demo demo
+<a href="https://ikros.openquiz.eu" target="_blank">Frontend</a> demo@demo demo
+Manuál vo formáte <a href="http://openquiz.eu/ikros/Dokumentacia.pdf" target="_blank">PDF</a>
+
+Na hostingu v php.ini povolené rozšírenie Curl.
+
