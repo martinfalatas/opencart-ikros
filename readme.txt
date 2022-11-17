@@ -98,7 +98,6 @@ Po vložení autorizačného kľúča získate okamžité prepojenie so svojim I
 
 Administrácia: 	https://ikros.openquiz.eu/admin  demo/demo
 Frontend 	https://ikros.openquiz.eu demo@demo/demo
-Manuál vo formáte PDF http://openquiz.eu/ikros/Dokumentacia.pdf
 
 Na hostingu v php.ini povolené rozšírenie Curl.
 
